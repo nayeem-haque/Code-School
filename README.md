@@ -1,4 +1,4 @@
-# Coding Shikhi
+# Code School
 
 ## Live Link - 
 
