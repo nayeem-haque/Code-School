@@ -22,7 +22,7 @@ const Home = () => {
       />
       <Typing>
         <Typing.Delay ms={1000} />
-        Welcome To Coding Shikhi!
+        Welcome To Code School!
       </Typing>
 
       <div className="text-center">
